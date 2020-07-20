@@ -1,0 +1,5 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW":"REST_API_NODE"
+    }
+}
